@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pastel de Chocolate",
+    "categoria": "Pastel",
+    "precio": 100,
+    "imagen": "https://pasteleriasmarisa.com.mx/dyn/wp-content/uploads/2015/07/Pastel-Chocolate-2.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Pastel de Frutas",
+    "categoria": "Pastel",
+    "precio": 120,
+    "imagen": "https://pasteleriasmarisa.com.mx/dyn/wp-content/uploads/2015/07/Pastel-frutas-1.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Pastel de Moras",
+    "categoria": "Pastel",
+    "precio": 150,
+    "imagen": "https://www.shoothecook.es/wp-content/uploads/tarta-queso-con-moras-receta.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Pastel de Vainilla",
+    "categoria": "Pastel",
+    "precio": 100,
+    "imagen": "https://cdn7.kiwilimon.com/brightcove/10410/640x640/10410.jpg.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Galleta de Chocolate",
+    "categoria": "Galleta",
+    "precio": 10,
+    "imagen": "https://cdn0.recetasgratis.net/es/posts/6/8/2/galletas_de_mantequilla_con_chocolate_55286_600.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Galleta de Avena",
+    "categoria": "Galleta",
+    "precio": 11,
+    "imagen": "https://cdn0.recetasgratis.net/es/posts/3/0/3/galletas_de_avena_faciles_y_rapidas_67303_600.webp"
+  },
+  {
+    "id": 7,
+    "nombre": "Galleta de Nuez",
+    "categoria": "Galleta",
+    "precio": 15,
+    "imagen": "https://cdn7.kiwilimon.com/recetaimagen/26066/23899.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Galleta de Mantequilla",
+    "categoria": "Galleta",
+    "precio": 12,
+    "imagen": "https://cdn7.kiwilimon.com/recetaimagen/10257/640x640/24436.jpg.webp"
+  },
+  {
+    "id": 9,
+    "nombre": "Helado de Chocolate",
+    "categoria": "Helado",
+    "precio": 20,
+    "imagen": "https://www.comedera.com/wp-content/uploads/2022/04/Helado-de-chocolate-sin-azucar-casero-shutterstock_1418765711.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Helado de Vainilla",
+    "categoria": "Helado",
+    "precio": 20,
+    "imagen": "https://www.gourmet.cl/wp-content/uploads/2016/09/Helado_Vainilla-web-553x458.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Helado de Fresa",
+    "categoria": "Helado",
+    "precio": 20,
+    "imagen": "https://editorialtelevisa.brightspotcdn.com/dims4/default/d95c4a5/2147483647/strip/true/crop/672x672+264+0/resize/1000x1000!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F01%2Fhelado-de-fresa.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Helado de Menta",
+    "categoria": "Helado",
+    "precio": 20,
+    "imagen": "https://mandolina.co/wp-content/uploads/2023/11/helado-de-menta-1080X550.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Muffin de Chocolate",
+    "categoria": "Muffin",
+    "precio": 10,
+    "imagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2015/03/muffins_chocolate.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Muffin de Zanahoria",
+    "categoria": "Muffin",
+    "precio": 10,
+    "imagen": "https://cdn.recetasderechupete.com/wp-content/uploads/2019/09/Muffins-de-zanahoria.jpg"
+  }
+]
